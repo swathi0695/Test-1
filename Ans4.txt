@@ -1,0 +1,27 @@
+20 family members are : 
+('A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T')
+(10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 70, 21, 22, 93, 24, 25, 86, 27, 9, 40)
+child group:
+A 10
+S 9
+youth group :
+B 11
+C 12
+D 13
+E 14
+F 15
+G 16
+H 17
+I 18
+J 19
+middle group :
+age: 21
+age: 22
+age: 24
+age: 25
+age: 27
+age: 40
+senior group :
+K 70
+N 93
+Q 86

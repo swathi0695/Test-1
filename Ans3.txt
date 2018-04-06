@@ -1,0 +1,6 @@
+[  6  11  12  37  48  54  60  88 105 105 122 122 155]
+Enter a search key :
+
+12
+Key : 12
+Position : 2
